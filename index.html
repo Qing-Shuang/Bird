@@ -17,4 +17,93 @@ title: Bird
 </ul>
 </div>
 
+<div>
+<h2>C/C++</h2>
+<ul>
 
+{% for post in site.tags.CAndC++ %}
+
+　　<li>{{ post.date | date_to_string }} <a href="{{ site.baseurl }}{{ post.url }}"> {{ post.title }}</a></li>
+
+{% endfor %}
+
+</ul>
+</div>
+
+<div>
+<h2>算法</h2>
+<ul>
+
+{% for post in site.tags.algorithm %}
+
+　　<li>{{ post.date | date_to_string }} <a href="{{ site.baseurl }}{{ post.url }}"> {{ post.title }}</a></li>
+
+{% endfor %}
+
+</ul>
+</div>
+
+<div>
+<h2>Java</h2>
+<ul>
+
+{% for post in site.tags.css %}
+
+　　<li>{{ post.date | date_to_string }} <a href="{{ site.baseurl }}{{ post.url }}"> {{ post.title }}</a></li>
+
+{% endfor %}
+
+</ul>
+</div>
+
+<div>
+<h2>JavaCsript</h2>
+<ul>
+
+{% for post in site.tags.js %}
+
+　　<li>{{ post.date | date_to_string }} <a href="{{ site.baseurl }}{{ post.url }}"> {{ post.title }}</a></li>
+
+{% endfor %}
+
+</ul>
+</div>
+
+<div>
+<h2>Python</h2>
+<ul>
+
+{% for post in site.tags.python %}
+
+　　<li>{{ post.date | date_to_string }} <a href="{{ site.baseurl }}{{ post.url }}"> {{ post.title }}</a></li>
+
+{% endfor %}
+
+</ul>
+</div>
+
+<div>
+<h2>Struts</h2>
+<ul>
+
+{% for post in site.tags.python %}
+
+　　<li>{{ post.date | date_to_string }} <a href="{{ site.baseurl }}{{ post.url }}"> {{ post.title }}</a></li>
+
+{% endfor %}
+
+</ul>
+</div>
+
+<div>
+<h2>其他</h2>
+<ul>
+
+{% for post in site.tags.other %}
+
+　　<li>{{ post.date | date_to_string }} <a href="{{ site.baseurl }}{{ post.url }}"> {{ post.title }}</a></li>
+
+{% endfor %}
+
+</ul>
+</div>
