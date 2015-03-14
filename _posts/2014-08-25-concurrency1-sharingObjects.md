@@ -1,5 +1,6 @@
 ---
 layout: default
+tags: concurrency
 ---
 
 #并发编程学习笔记（1）-对象的共享（可见性）#
