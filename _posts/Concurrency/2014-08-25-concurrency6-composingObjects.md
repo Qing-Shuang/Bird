@@ -1,3 +1,9 @@
+---
+layout: default
+tags: concurrency
+title: 并发编程学习笔记（6）-对象的组合
+---
+
 #并发编程学习笔记（6）-对象的组合#
 
 摘录于[《Java并发编程实战》](http://book.douban.com/subject/10484692/)

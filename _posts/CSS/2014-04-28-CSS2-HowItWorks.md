@@ -1,3 +1,9 @@
+---
+layout: default
+tags: css
+title: CSS学习笔记(2)--CSS工作原理
+---
+
 # CSS学习笔记(2)--CSS工作原理 #
 
 ## ID和类选择符 ##
