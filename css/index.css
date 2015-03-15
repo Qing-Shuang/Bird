@@ -9,3 +9,7 @@
 	padding:10px;
 	margin-left:10px;
 }
+
+#right li{
+	list-sytle:none;
+}
