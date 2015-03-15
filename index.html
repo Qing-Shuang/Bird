@@ -3,135 +3,26 @@ layout: default
 title: Bird
 ---
 
-
-
 <h1>{{ page.title }}</h1>
 <div id="left">
-<div>
-<h2>并发</h2>
 <ul>
 
-{% for post in site.tags.concurrency %}
+{% for post in site.posts %}
 
 　　<li>{{ post.date | date_to_string }} <a href="{{ site.baseurl }}{{ post.url }}"> {{ post.title }}</a></li>
 
 {% endfor %}
 
 </ul>
-</div>
-
-<div>
-<h2>C/C++</h2>
-<ul>
-
-{% for post in site.tags.C %}
-
-　　<li>{{ post.date | date_to_string }} <a href="{{ site.baseurl }}{{ post.url }}"> {{ post.title }}</a></li>
-
-{% endfor %}
-
-</ul>
-</div>
-
-<div>
-<h2>算法</h2>
-<ul>
-
-{% for post in site.tags.algorithm %}
-
-　　<li>{{ post.date | date_to_string }} <a href="{{ site.baseurl }}{{ post.url }}"> {{ post.title }}</a></li>
-
-{% endfor %}
-
-</ul>
-</div>
-
-<div>
-<h2>Java</h2>
-<ul>
-
-{% for post in site.tags.java %}
-
-　　<li>{{ post.date | date_to_string }} <a href="{{ site.baseurl }}{{ post.url }}"> {{ post.title }}</a></li>
-
-{% endfor %}
-
-</ul>
-</div>
-
-<div>
-<h2>CSS</h2>
-<ul>
-
-{% for post in site.tags.css %}
-
-　　<li>{{ post.date | date_to_string }} <a href="{{ site.baseurl }}{{ post.url }}"> {{ post.title }}</a></li>
-
-{% endfor %}
-
-</ul>
-</div>
-
-<div>
-<h2>JavaScript</h2>
-<ul>
-
-{% for post in site.tags.js %}
-
-　　<li>{{ post.date | date_to_string }} <a href="{{ site.baseurl }}{{ post.url }}"> {{ post.title }}</a></li>
-
-{% endfor %}
-
-</ul>
-</div>
-
-<div>
-<h2>Python</h2>
-<ul>
-
-{% for post in site.tags.python %}
-
-　　<li>{{ post.date | date_to_string }} <a href="{{ site.baseurl }}{{ post.url }}"> {{ post.title }}</a></li>
-
-{% endfor %}
-
-</ul>
-</div>
-
-<div>
-<h2>Struts</h2>
-<ul>
-
-{% for post in site.tags.struts %}
-
-　　<li>{{ post.date | date_to_string }} <a href="{{ site.baseurl }}{{ post.url }}"> {{ post.title }}</a></li>
-
-{% endfor %}
-
-</ul>
-</div>
-
-<div>
-<h2>其他</h2>
-<ul>
-
-{% for post in site.tags.other %}
-
-　　<li>{{ post.date | date_to_string }} <a href="{{ site.baseurl }}{{ post.url }}"> {{ post.title }}</a></li>
-
-{% endfor %}
-
-</ul>
-</div>
 </div>
 
 <div id="right">
-<a href="">并发</a>
-<a href="">C/C++</a>
-<a href="">算法</a>
-<a href="">Java</a>
-<a href="">JavaScript</a>
-<a href="">Python</a>
-<a href="">Struts</a>
-<a href="">其他</a>
+<p><a href="{{ site.baseurl }}/navigation/navigation_concurrenty.html">并发</a></p>
+<p><a href="">C/C++</a></p>
+<p><a href="">算法</a></p>
+<p><a href="">Java</a></p>
+<p><a href="">JavaScript</a></p>
+<p><a href="">Python</a></p>
+<p><a href="">Struts</a></p>
+<p><a href="">其他</a></p>
 </div>
