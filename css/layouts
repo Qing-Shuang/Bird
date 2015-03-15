@@ -1,0 +1,27 @@
+#header{
+  padding:5px;
+  border-bottom:1px solid #D4D5DA;
+  clear:both;
+}
+
+#tail{
+  clear:both;
+  border-top:1px solid #D4D5DA;
+  padding:5px;
+}
+
+#left{
+	float:left;
+}
+
+#right{
+	float:right;
+	width:160px;
+	border:1px solid #D4D5DA;
+	padding:5px;
+	margin-left:10px;
+}
+
+#right li{
+	list-style:none;
+}
