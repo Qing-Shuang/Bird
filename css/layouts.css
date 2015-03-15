@@ -11,17 +11,17 @@
 }
 
 #left{
-	float:left;
+  float:left;
 }
 
 #right{
-	float:right;
-	width:160px;
-	border:1px solid #D4D5DA;
-	padding:5px;
-	margin-left:10px;
+  float:right;
+  width:160px;
+  border:1px solid #D4D5DA;
+  padding:5px;
+  margin-left:10px;
 }
 
 #right li{
-	list-style:none;
+  list-style:none;
 }
