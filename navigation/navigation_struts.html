@@ -1,0 +1,16 @@
+---
+layout: navigation
+title: Bird
+---
+
+<h2>Struts</h2>
+<ul>
+
+{% for post in site.tags.struts %}
+
+　　<li>{{ post.date | date_to_string }} <a href="{{ site.baseurl }}{{ post.url }}"> {{ post.title }}</a></li>
+
+{% endfor %}
+
+</ul>
+

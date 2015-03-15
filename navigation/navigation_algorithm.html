@@ -1,0 +1,16 @@
+---
+layout: navigation
+title: Bird
+---
+
+<h2>算法</h2>
+<ul>
+
+{% for post in site.tags.algorithm %}
+
+　　<li>{{ post.date | date_to_string }} <a href="{{ site.baseurl }}{{ post.url }}"> {{ post.title }}</a></li>
+
+{% endfor %}
+
+</ul>
+
