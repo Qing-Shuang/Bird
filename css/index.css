@@ -4,5 +4,8 @@
 
 #right{
 	float:left;
-	width:200px;
+	width:180px;
+	border:1px solid #D4D5DA
+	padding:10px;
+	margin-left:10px;
 }
