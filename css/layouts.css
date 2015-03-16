@@ -35,3 +35,7 @@
 #right li{
   list-style:none;
 }
+
+#left #naviContent{
+  list-style:none;
+}
