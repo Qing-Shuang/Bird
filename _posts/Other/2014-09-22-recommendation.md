@@ -10,3 +10,4 @@ title: 好文推荐
 2. [C语言结构体里的成员数组和指针](http://coolshell.cn/articles/11377.html)，耗子叔的文章，不管你是C语言的初学者还是专家，这篇文章都值得一读。
 3. [有趣的JavaScript原生数组函数](http://www.ituring.com.cn/article/67320)，JS的数组操作很有趣呢！
 4. [揭开正则表达式的神秘面纱](http://www.regexlab.com/zh/regref.htm)，一份很不错的正则学习资料，也适合常备桌头。
+5. [从.NET中委托写法的演变谈开去（上）：委托与匿名方法](http://blog.zhaojie.me/2009/08/from-delegate-to-others.html)，[从.NET中委托写法的演变谈开去（中）：Lambda表达式及其优势](http://blog.zhaojie.me/2009/08/from-delegate-to-others-2.html)，[从.NET中委托写法的演变谈开去（下）：性能相关](http://blog.zhaojie.me/2009/08/from-delegate-to-others-3.html)
