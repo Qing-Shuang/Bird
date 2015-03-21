@@ -35,12 +35,12 @@
 
 #right li{
   list-style:none;
+  border-bottom:1px solid #D4D5DA;
 }
 
 #right a{
   text-decoration: none; 
   color:#7D818C;
-  border-bottom:1px solid #D4D5DA;
 }
 
 #left #naviContent h2{
