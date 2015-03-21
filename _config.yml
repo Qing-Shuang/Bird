@@ -3,3 +3,5 @@ encoding: UTF-8
 
 markdown: rdiscount
 paginate: 8
+
+date: YYYY-MM-DD
