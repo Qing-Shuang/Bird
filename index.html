@@ -7,9 +7,10 @@ title: Bird
 
 {% for post in site.posts %}
 
-　　<li>
-　　<a href="{{ site.baseurl }}{{ post.url }}"> {{ post.title }}</a>
-　　<p>{{ post.date | date_to_string }}</p> 
+　　<li><a href="{{ site.baseurl }}{{ post.url }}"> {{ post.title }}</a>
+　　<div class="mtime">
+　　  {{ post.date | date_to_string }}
+　　</div>
 　　<p>{{ post.description }}</p>
 　　</li>
 
