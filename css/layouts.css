@@ -23,6 +23,7 @@
 
 #left{
   float:left;
+  word-wrap:break-word;
 }
 
 #right{
