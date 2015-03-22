@@ -1,3 +1,8 @@
+#container{
+  min-height:100%;
+  height: auto !important;
+}
+
 #header{
   padding:5px;
   margin-bottom:10px;
@@ -19,6 +24,9 @@
   margin-top:20px;
   text-align:center;
   color:#7D818C;
+  height:40px;
+  position:absolute;
+  bottom:0;
 }
 
 #leftContainer{
