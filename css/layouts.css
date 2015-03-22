@@ -21,9 +21,14 @@
   color:#7D818C;
 }
 
+#leftContainer{
+  margin-right:160px;
+}
+
 #left{
   float:left;
   word-wrap:break-word;
+  margin-right:-160px;
 }
 
 #right{
