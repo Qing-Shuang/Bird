@@ -48,6 +48,7 @@ html,body {
 
 #left{
   float:left;
+  word-wrap:break-word;
   margin-right:-160px;
 }
 
