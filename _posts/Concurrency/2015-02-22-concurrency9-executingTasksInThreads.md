@@ -1,11 +1,11 @@
 ---
 layout: default
 tags: concurrency
-title: 并发编程学习笔记（9）-任务执行
+title: 并发编程学习笔记9-任务执行
 description: 测试
 ---
 
-#并发编程学习笔记（9）-任务执行#
+#并发编程学习笔记9-任务执行#
 
 摘录于[《Java并发编程实战》](http://book.douban.com/subject/10484692/)
 
