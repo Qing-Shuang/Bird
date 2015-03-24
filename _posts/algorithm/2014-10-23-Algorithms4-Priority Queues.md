@@ -1,10 +1,10 @@
 ---
 layout: default
 tags: algorithm
-title: 算法学习笔记（4）-优先队列
+title: 算法学习笔记4-优先队列
 ---
 
-# 算法学习笔记（4）-优先队列 #
+# 算法学习笔记4-优先队列 #
 
 摘录于[《算法》](http://book.douban.com/subject/19952400/)
 

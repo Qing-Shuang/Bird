@@ -1,10 +1,10 @@
 ---
 layout: default
 tags: css
-title: CSS学习笔记(1)--Html标记及文档结构
+title: CSS学习笔记1--Html标记及文档结构
 ---
 
-# CSS学习笔记(1)--Html标记及文档结构 #
+# CSS学习笔记1--Html标记及文档结构 #
 
 ## 块级元素和行级元素 ##
 

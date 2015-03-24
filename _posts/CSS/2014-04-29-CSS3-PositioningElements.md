@@ -1,10 +1,10 @@
 ---
 layout: default
 tags: css
-title: CSS学习笔记(3)--定位元素
+title: CSS学习笔记3--定位元素
 ---
 
-# CSS学习笔记(3)--定位元素 #
+# CSS学习笔记3--定位元素 #
 
 
 ## 外边距和内边距 ##

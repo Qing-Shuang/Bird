@@ -1,10 +1,10 @@
 ---
 layout: default
 tags: concurrency
-title: 并发编程学习笔记（8）-基础构建模块
+title: 并发编程学习笔记8-基础构建模块
 ---
 
-#并发编程学习笔记（8）-基础构建模块#
+#并发编程学习笔记8-基础构建模块#
 
 摘录于[《Java并发编程实战》](http://book.douban.com/subject/10484692/)
 

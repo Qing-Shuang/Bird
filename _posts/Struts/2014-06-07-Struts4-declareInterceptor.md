@@ -1,10 +1,10 @@
 ---
 layout: default
 tags: struts
-title: Struts 学习笔记(4)--声明拦截器
+title: Struts 学习笔记4--声明拦截器
 ---
 
-# Struts 学习笔记(4)--声明拦截器 #
+# Struts 学习笔记4--声明拦截器 #
 
 ## 将拦截器映射到动作组件 ##
 

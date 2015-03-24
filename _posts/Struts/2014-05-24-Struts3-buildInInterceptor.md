@@ -1,10 +1,10 @@
 ---
 layout: default
 tags: struts
-title: Struts 学习笔记(3)--内建的Struts拦截器
+title: Struts 学习笔记3--内建的Struts拦截器
 ---
 
-# Struts 学习笔记(3)--内建的Struts拦截器 #
+# Struts 学习笔记3--内建的Struts拦截器 #
 
 ## 工具拦截器 ##
 

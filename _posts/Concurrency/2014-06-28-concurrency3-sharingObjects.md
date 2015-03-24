@@ -1,10 +1,10 @@
 ---
 layout: default
 tags: concurrency
-title: 并发编程学习笔记（3）-对象的共享
+title: 并发编程学习笔记3-对象的共享
 ---
 
-#并发编程学习笔记（3）-对象的共享#
+#并发编程学习笔记3-对象的共享#
 
 摘录于[《Java并发编程实战》](http://book.douban.com/subject/10484692/)
 

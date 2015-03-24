@@ -1,10 +1,10 @@
 ---
 layout: default
 tags: js
-title: javascript 学习笔记(3)--执行环境与作用域
+title: javascript 学习笔记3--执行环境与作用域
 ---
 
-#javascript 学习笔记(3)--执行环境与作用域#
+#javascript 学习笔记3--执行环境与作用域#
 
 摘录于[《JavaScript高级程序设计:第2版》](http://book.douban.com/subject/4886879/)
 

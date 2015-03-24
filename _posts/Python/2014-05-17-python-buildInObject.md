@@ -1,10 +1,10 @@
 ---
 layout: default
 tags: python 
-title: Python 源码学习笔记(1)--内建对象
+title: Python 源码学习笔记1--内建对象
 ---
 
-# Python 源码学习笔记(1)--内建对象 #
+# Python 源码学习笔记1--内建对象 #
 
 Python的实现语言是ANSI C。C并不是面向对象的语言，那么在Python中，它的对象机制是如何实现的呢？
 

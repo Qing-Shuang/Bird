@@ -1,10 +1,10 @@
 ---
 layout: default
 tags: struts
-title: Struts学习笔记（1）--基本概念
+title: Struts学习笔记1--基本概念
 ---
 
-# Struts学习笔记（1）--基本概念 #
+# Struts学习笔记1--基本概念 #
 
 ## Http ##
 

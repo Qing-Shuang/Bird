@@ -1,10 +1,10 @@
 ---
 layout: default
 tags: java
-title: Java 学习笔记(2)--初始化和类的加载
+title: Java 学习笔记2--初始化和类的加载
 ---
 
-#Java 学习笔记(2)--初始化和类的加载#
+#Java 学习笔记2--初始化和类的加载#
 
 摘录于[《Java编程思想》](http://book.douban.com/subject/2130190/)
 

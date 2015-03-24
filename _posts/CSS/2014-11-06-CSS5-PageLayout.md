@@ -1,10 +1,10 @@
 ---
 layout: default
 tags: css
-title: CSS学习笔记(5)--页面布局
+title: CSS学习笔记5--页面布局
 ---
 
-# CSS学习笔记(5)--页面布局 #
+# CSS学习笔记5--页面布局 #
 
 
 ## 布局的基本概念 ##

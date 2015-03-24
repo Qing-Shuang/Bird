@@ -1,10 +1,10 @@
 ---
 layout: default
 tags: js
-title: javascript 学习笔记(4)--原型模式
+title: javascript 学习笔记4--原型模式
 ---
 
-#javascript 学习笔记(4)--原型模式#
+#javascript 学习笔记4--原型模式#
 
 摘录于[《JavaScript高级程序设计:第2版》](http://book.douban.com/subject/4886879/)
 

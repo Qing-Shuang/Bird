@@ -1,10 +1,10 @@
 ---
 layout: default
 tags: algorithm
-title: 算法学习笔记（2）-归并排序
+title: 算法学习笔记2-归并排序
 ---
 
-# 算法学习笔记（2）-归并排序 #
+# 算法学习笔记2-归并排序 #
 
 摘录于[《算法》](http://book.douban.com/subject/19952400/)
 

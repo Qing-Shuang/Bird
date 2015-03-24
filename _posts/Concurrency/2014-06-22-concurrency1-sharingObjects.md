@@ -1,10 +1,10 @@
 ---
 layout: default
 tags: concurrency
-title: 并发编程学习笔记（1）-对象的共享（可见性）
+title: 并发编程学习笔记1-对象的共享（可见性）
 ---
 
-#并发编程学习笔记（1）-对象的共享（可见性）#
+#并发编程学习笔记1-对象的共享（可见性）#
 
 摘录于[《Java并发编程实战》](http://book.douban.com/subject/10484692/)
 

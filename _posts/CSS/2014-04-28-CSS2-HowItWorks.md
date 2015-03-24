@@ -1,10 +1,10 @@
 ---
 layout: default
 tags: css
-title: CSS学习笔记(2)--CSS工作原理
+title: CSS学习笔记2--CSS工作原理
 ---
 
-# CSS学习笔记(2)--CSS工作原理 #
+# CSS学习笔记2--CSS工作原理 #
 
 ## ID和类选择符 ##
 **什么时候用ID，什么时候用类？**
