@@ -104,8 +104,9 @@ background-attachment 属性控制滚动元素内的背景图片是否随元素�
 
 background-attachment:fixed 最常用于给body元素中心位置添加淡色水印，让水印不随页面滚动而移动。
 
-	如果给其他元素的background-attachment设为fixed，比如标签p，随着页面的滚动，标签p内的背景不会发生移动，
-	当标签p不在当前页面时，背景也会离开当前页面噢，换句话说，fixed只作用于某个元素内。
+	如果给其他元素的background-attachment设为fixed，比如标签p，随着页面的滚动，
+	标签p内的背景不会发生移动，当标签p不在当前页面时，背景也会离开当前页面噢，
+	换句话说，fixed只作用于某个元素内。
 
 ## 多背景图片 ##
 
