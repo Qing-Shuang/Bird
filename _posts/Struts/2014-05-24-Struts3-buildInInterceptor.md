@@ -96,7 +96,7 @@ Preparable接口在动作执行之前创建资源或者数字时非常有用。
 
 这个拦截器在捕获异常后将控制转交给结果之前，会创建一个ExceptionHolder对象，并且把它放在ValueStack的最前端。ExceptionHolder是一个异常的包装器，它把跟踪栈和异常作为JavaBean属性公开出来。
 
-### token拦截器和token-session拦截器 ###
+###token拦截器和token-session拦截器###
 
 token和token-session拦截器可以作为避免表单重复提交系统的一部分。
 
