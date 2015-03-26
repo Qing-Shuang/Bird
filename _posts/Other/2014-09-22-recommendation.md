@@ -11,3 +11,4 @@ title: 好文推荐
 3. [有趣的JavaScript原生数组函数](http://www.ituring.com.cn/article/67320)，JS的数组操作很有趣呢！
 4. [揭开正则表达式的神秘面纱](http://www.regexlab.com/zh/regref.htm)，一份很不错的正则学习资料，也适合常备桌头。
 5. [从.NET中委托写法的演变谈开去（上）：委托与匿名方法](http://blog.zhaojie.me/2009/08/from-delegate-to-others.html)；[从.NET中委托写法的演变谈开去（中）：Lambda表达式及其优势](http://blog.zhaojie.me/2009/08/from-delegate-to-others-2.html)；[从.NET中委托写法的演变谈开去（下）：性能相关](http://blog.zhaojie.me/2009/08/from-delegate-to-others-3.html)。
+6. [Git简明教程](http://rogerdudler.github.io/git-guide/index.zh.html)，简单易懂，适合入门。想对git有更好的理解，有本不错的书：[Pro Git](http://iissnan.com/progit/)
