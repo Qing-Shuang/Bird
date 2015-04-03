@@ -19,3 +19,5 @@ title: 好文推荐
 6. [Git简明教程](http://rogerdudler.github.io/git-guide/index.zh.html)，简单易懂，适合入门。想对git有更好的理解，有本不错的书：[Pro Git](http://iissnan.com/progit/)
 
 7. [七牛李道兵：高可用可伸缩架构实用经验谈](http://segmentfault.com/a/1190000002627554?utm_source=Weibo&utm_medium=shareLink&utm_campaign=socialShare)
+
+8. [线上性能问题初步排查方法](http://ifeve.com/find-bug-online/) 
