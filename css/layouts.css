@@ -53,9 +53,12 @@ html,body {
 }
 
 #left #naviContent h2{
-  margin-top:0;
-  width:400px;
-  background-color: white;
+  margin-top: 0;
+  margin-bottom 0;
+  width: 400px;
+  background-color: #fff;
+  font-size: 28px;
+  border-left: 0px;
   /*
   margin: 0;
   padding: 0;
