@@ -55,6 +55,7 @@ html,body {
 #left #naviContent h2{
   margin-top: 0;
   margin-bottom 0;
+  padding-bottom: 0;
   width: 400px;
   background-color: #fff;
   font-size: 28px;
