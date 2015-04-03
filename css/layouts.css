@@ -52,9 +52,19 @@ html,body {
   margin-right:-160px;
 }
 
+#left #naviContent h2{
+  margin-top:0;
+  width:400px;
+  /*
+  margin: 0;
+  padding: 0;
+  color: black;
+  */
+}
+
 #right{
   float:right;
-  width:160px;
+  width:200px;
   border:1px solid #D4D5DA;
   padding:5px;
   margin-left:10px;
@@ -70,14 +80,6 @@ html,body {
 #right a{
   text-decoration: none; 
   color:#7D818C;
-}
-
-#left #naviContent h2{
-  margin-top:0;
-  /*width:500px;*/
-  margin: 0;
-  padding: 0;
-  color: black;
 }
 
 .mtime{
