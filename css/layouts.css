@@ -74,7 +74,10 @@ html,body {
 
 #left #naviContent h2{
   margin-top:0;
-  width:500px;
+  /*width:500px;*/
+  margin: 0;
+  padding: 0;
+  color: black;
 }
 
 .mtime{
