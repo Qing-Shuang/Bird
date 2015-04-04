@@ -21,3 +21,5 @@ title: 好文推荐
 7. [七牛李道兵：高可用可伸缩架构实用经验谈](http://segmentfault.com/a/1190000002627554?utm_source=Weibo&utm_medium=shareLink&utm_campaign=socialShare)
 
 8. [线上性能问题初步排查方法](http://ifeve.com/find-bug-online/) 
+
+9. [深入理解java内存模型系列文章](http://ifeve.com/java-memory-model-0/)
