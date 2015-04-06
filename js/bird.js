@@ -11,7 +11,7 @@
 			mdiv.id = "calcOfArticle";
 			mdiv.appendChild(mul);
 
-			var mbody = document.getElementsByTagName("body");
-			mbody[0].insertBefore(mdiv,h2Arrays[0]);
+			//var mbody = document.getElementsByTagName("body");
+			h2Arrays[0].parentNode.insertBefore(mdiv,h2Arrays[0]);
 		}
 	}
