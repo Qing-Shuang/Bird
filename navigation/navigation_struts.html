@@ -1,12 +1,23 @@
 ---
 layout: navigation
-title: Struts
+title: Struts/Spring
 ---
 
 <h2>Struts</h2>
 <ul>
 
 {% for post in site.tags.struts %}
+
+　　<li>{{ post.date | date:"%Y-%m-%d" }} <a href="{{ site.baseurl }}{{ post.url }}"> {{ post.title }}</a></li>
+
+{% endfor %}
+
+</ul>
+
+<h2>Spring</h2>
+<ul>
+
+{% for post in site.tags.spring %}
 
 　　<li>{{ post.date | date:"%Y-%m-%d" }} <a href="{{ site.baseurl }}{{ post.url }}"> {{ post.title }}</a></li>
 
