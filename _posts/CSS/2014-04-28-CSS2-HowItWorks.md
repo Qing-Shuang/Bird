@@ -6,6 +6,8 @@ title: CSS学习笔记2--CSS工作原理
 
 # CSS学习笔记2--CSS工作原理 #
 
+摘录于[CSS设计指南](http://book.douban.com/subject/23123255/)
+
 ## ID和类选择符 ##
 **什么时候用ID，什么时候用类？**
 

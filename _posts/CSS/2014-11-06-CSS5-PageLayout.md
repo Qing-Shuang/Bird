@@ -6,6 +6,7 @@ title: CSS学习笔记5--页面布局
 
 # CSS学习笔记5--页面布局 #
 
+摘录于[CSS设计指南](http://book.douban.com/subject/23123255/)
 
 ## 布局的基本概念 ##
 
