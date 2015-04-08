@@ -23,3 +23,5 @@ title: 好文推荐
 8. [线上性能问题初步排查方法](http://ifeve.com/find-bug-online/) 
 
 9. [深入理解java内存模型系列文章](http://ifeve.com/java-memory-model-0/)
+
+10. [Java垃圾回收机制](http://www.jianshu.com/p/778dd3848196) 
