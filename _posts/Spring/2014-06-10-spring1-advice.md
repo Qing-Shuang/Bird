@@ -23,12 +23,12 @@ title: Spring学习笔记1-通知bean
 
 Spring利用代理类包裹切面，从而把它们织入到Spring管理的Bean里。代理类装作目标Bean，截取被通知的方法调用，再把这些调用转发给真正的目标Bean。在代理截取方法调用之后、实际调用目标Bean的方法之前，代理会执行切面逻辑。
 
-Spring直到程序需要被代理的Bean时才会创建它。如果使用的是ApplicationContext，被代理的对象会在它从BeanFactory加载全部Bean时被创建。由于Spring是在运行时创建代理，所以我们不需要使用特殊的编译器把切面织入到Spring的AOP。
+Spring直到程序需要被代理的Bean时才会创建它。如果使用的是`ApplicationContext`，被代理的对象会在它从BeanFactory加载全部Bean时被创建。由于Spring是在运行时创建代理，所以我们不需要使用特殊的编译器把切面织入到Spring的AOP。
 
 Spring生成被代理类的方式有两种：
 
-* 如果目标对象实现的是一个接口，Spring会使用JDK的java.lang.reflect.Proxy类，它允许Spring动态生成一个新类来实现必要的接口、织入任何通知、并且把对这些接口的任何调用都转发到目标类。
+* 如果目标对象实现的是一个接口，Spring会使用JDK的`java.lang.reflect.Proxy`类，它允许Spring动态生成一个新类来实现必要的接口、织入任何通知、并且把对这些接口的任何调用都转发到目标类。
 * 如果目标类不是实现一个接口，Spring就使用CGLIB库生成目标类的一个子类。在创建这个子类时，Spring织入通知，并且把对这个子类的调用委托到目标类。
 
-创建接口的代理能够更好地实现程序的松耦合。创建子类的方式存在“目标类中被标记为final的方法不能被通知”的限制。
+创建接口的代理能够更好地实现程序的松耦合。创建子类的方式存在“目标类中被标记为`final`的方法不能被通知”的限制。
 
