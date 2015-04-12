@@ -25,3 +25,5 @@ title: 好文推荐
 9. [深入理解java内存模型系列文章](http://ifeve.com/java-memory-model-0/)
 
 10. [Java垃圾回收机制](http://www.jianshu.com/p/778dd3848196) 
+
+11. [源码剖析AQS在几个同步工具类中的使用](http://ifeve.com/abstractqueuedsynchronizer-use/)
