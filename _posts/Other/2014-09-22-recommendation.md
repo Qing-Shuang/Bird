@@ -27,3 +27,5 @@ title: 好文推荐
 10. [Java垃圾回收机制](http://www.jianshu.com/p/778dd3848196) 
 
 11. [源码剖析AQS在几个同步工具类中的使用](http://ifeve.com/abstractqueuedsynchronizer-use/)
+
+12. [浏览器的渲染原理简介](http://coolshell.cn/articles/9666.html)
