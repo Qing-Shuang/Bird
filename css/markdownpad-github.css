@@ -206,7 +206,8 @@ code, tt {
 
 code{
   padding: 2px 4px;
-  color: #D14;
+  /*color: #D14;*/
+  color: #7D818C;
 }
 
 pre>code {
@@ -215,7 +216,7 @@ pre>code {
   white-space: pre;
   border: none;
   background: transparent;
-  color: #7D818C;
+  /*color: #7D818C;*/
 }
 
 pre {
@@ -231,7 +232,7 @@ pre {
 pre code, pre tt {
   background-color: transparent;
   border: none;
-  color: #7D818C;
+  /*color: #7D818C;*/
 }
 
 kbd {
