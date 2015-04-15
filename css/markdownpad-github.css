@@ -204,6 +204,10 @@ code, tt {
   border-radius: 3px;
 }
 
+code{
+  padding: 2px 4px;
+}
+
 pre>code {
   margin: 0;
   padding: 0;
