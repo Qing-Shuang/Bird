@@ -29,3 +29,5 @@ title: 好文推荐
 11. [源码剖析AQS在几个同步工具类中的使用](http://ifeve.com/abstractqueuedsynchronizer-use/)
 
 12. [浏览器的渲染原理简介](http://coolshell.cn/articles/9666.html)
+
+13. [MySQL性能优化的最佳20+条经验](http://coolshell.cn/articles/1846.html) 
