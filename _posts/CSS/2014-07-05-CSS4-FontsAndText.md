@@ -60,6 +60,7 @@ title: CSS学习笔记4--字体与文本
 ###简写字体属性###
 
 **简写形式要遵守两条规则，否则浏览器无法正确解释声明的值。**
+
 * 规则一：必须声明 `font-size` 和 `font-family` 的值。
 * 规则二：所有值必须按如下顺序声明。
 	* `font-weight`、`font-style`、`font-variant` 不分先后；
