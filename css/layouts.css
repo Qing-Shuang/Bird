@@ -14,7 +14,8 @@ html,body {
 #header{
   padding:5px;
   margin-bottom:10px;
-  border-bottom:1px solid #D4D5DA;
+  /*border-bottom:1px solid #D4D5DA;*/
+  border-bottom:1px solid #CCC;
   clear:both;
   font-size:48px;
   font-weight:bold;
