@@ -71,7 +71,8 @@ html,body {
 #right{
   float:right;
   width:200px;
-  border:1px solid #D4D5DA;
+  /*border:1px solid #D4D5DA;*/
+  border:1px solid #EAEAEA;
   padding:5px;
   margin-left:10px;
   margin-bottom:10px;
@@ -95,7 +96,8 @@ html,body {
 #calcOfArticle{
   color:#7D818C;
   width:280px;
-  border:1px solid #D4D5DA;
+  /*border:1px solid #D4D5DA;*/
+  border:1px solid #EAEAEA;
   padding:5px;
   background-color: #F8F8F8;
 }
