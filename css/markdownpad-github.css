@@ -31,8 +31,8 @@ body {
   max-width: 960px;
   min-width: 640px;
   margin: 0 auto;
-  border-left:1px solid #EAEAEA;
-  border-right:1px solid #EAEAEA;
+  /*border-left:1px solid #EAEAEA;
+  border-right:1px solid #EAEAEA;*/
 }
 
 body>*:first-child {
