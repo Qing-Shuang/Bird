@@ -210,8 +210,8 @@ code, tt {
 
 code{
   padding: 2px 4px;
-  /*color: #D14;*/
-  color: #7D818C;
+  color: #D14;
+  /*color: #7D818C;*/
 }
 
 pre>code {
@@ -318,7 +318,9 @@ img {
 
 /* Customer
 =============================================================================*/
+/*
 strong{
   color:#bd260d;
   font-weight:normal;
 }
+*/
