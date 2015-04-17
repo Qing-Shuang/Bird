@@ -22,8 +22,7 @@ html{
 
 body {
   /*font-family: "Trebuchet MS", Georgia, "Times New Roman", Times, Helvetica, arial, freesans, clean, sans-serif;*/
-  /*font-family: Georgia, Helvetica, arial, freesans, clean, sans-serif;*/
-  font-family: "Open Sans","Helvetica Neue","Hiragino Sans GB",sans-serif,Arial,Verdana,"BitStream vera Sans",Tahoma,Helvetica,sans-serif;
+  font-family: Georgia, Helvetica, arial, freesans, clean, sans-serif;
   font-size: 16px;
   line-height: 1.6;
   color: #333;
