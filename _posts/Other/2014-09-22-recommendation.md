@@ -31,3 +31,7 @@ title: 好文推荐
 12. [浏览器的渲染原理简介](http://coolshell.cn/articles/9666.html)
 
 13. [MySQL性能优化的最佳20+条经验](http://coolshell.cn/articles/1846.html) 
+
+14. [深入解析String#intern](http://tech.meituan.com/in_depth_understanding_string_intern.html)
+
+15. [Java内存分配和String类型的深度解析](http://www.codeceo.com/article/java-memory-string.html)
