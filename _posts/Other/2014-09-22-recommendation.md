@@ -35,3 +35,7 @@ title: 好文推荐
 14. [深入解析String#intern](http://tech.meituan.com/in_depth_understanding_string_intern.html)
 
 15. [Java内存分配和String类型的深度解析](http://www.codeceo.com/article/java-memory-string.html)
+
+16. [深入剖析ConcurrentHashMap(2)](http://ifeve.com/java-concurrent-hashmap-2/)
+
+17. [疫苗：Java HashMap的死循环](http://coolshell.cn/articles/9606.html)
