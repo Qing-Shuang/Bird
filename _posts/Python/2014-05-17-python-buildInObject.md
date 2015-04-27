@@ -37,13 +37,11 @@ Python的实现语言是ANSI C。C并不是面向对象的语言，那么在Pyth
 Python内部通过两种方法创建对象：
 
 * 通过Python的 C API 来创建。
-
 * 通过类型对象 `PyInt_Type`（假设要创建一个整数对象）。
 
 Python的 C API 分成两类：
 
 * 一类称为泛型的API，或者称为 AOL（Abstract Object Layer）。这类API都具有诸如 `PyObject_***` 的形式，可以应用在任何Python对象身上。
-
 * 另一类是与类型相关的API，或者称为 COL（Concrete Object Layer）。这类API通常只能作用与某一种类型的对象上。对于每一种**内建**对象，Python都提供了这样的一组API。
 
 不论采用哪种 C API ，Python内部最终都是直接分配内存，因为Python对于内建对象是无所不知的。对于用户自定义的类型，是通过类型对象创建的。
