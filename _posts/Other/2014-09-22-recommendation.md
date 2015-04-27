@@ -1,6 +1,5 @@
 ---
 layout: default
-tags: other 
 title: 好文推荐
 ---
 

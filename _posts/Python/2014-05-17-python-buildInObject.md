@@ -1,6 +1,6 @@
 ---
 layout: default
-tags: python 
+tags: python,other
 title: Python 源码学习笔记1--内建对象
 ---
 
