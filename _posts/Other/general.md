@@ -7,3 +7,5 @@
 3. [JUC ArrayBlockingQueue](http://ifeve.com/juc-arrayblockingqueue/)
 
 4. [JUC LinkedBlockingQueue](http://ifeve.com/juc-linkedblockingqueue/)
+
+5. [使用 Eclipse Memory Analyzer 进行堆转储文件分析](https://www.ibm.com/developerworks/cn/opensource/os-cn-ecl-ma/)
