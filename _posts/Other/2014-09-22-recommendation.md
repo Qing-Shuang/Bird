@@ -38,3 +38,5 @@ title: 好文推荐
 16. [深入剖析ConcurrentHashMap(2)](http://ifeve.com/java-concurrent-hashmap-2/)
 
 17. [疫苗：Java HashMap的死循环](http://coolshell.cn/articles/9606.html)
+
+18. [死锁](http://ifeve.com/deadlock/), [避免死锁](http://ifeve.com/deadlock-prevention/)

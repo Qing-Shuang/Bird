@@ -9,3 +9,5 @@
 4. [JUC LinkedBlockingQueue](http://ifeve.com/juc-linkedblockingqueue/)
 
 5. [使用 Eclipse Memory Analyzer 进行堆转储文件分析](https://www.ibm.com/developerworks/cn/opensource/os-cn-ecl-ma/)
+
+6. [为什么我的JVM能实际使用的内存比-Xmx指定的少？](http://ifeve.com/jvm-having-access-to-less-memory-than-xmx/)
