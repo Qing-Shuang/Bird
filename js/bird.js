@@ -14,7 +14,7 @@
 			mdiv.id = "calcOfArticle";
 			mdiv.appendChild(mul);
 			
-			var mnext = h1Arrays[0].nextSibling;
+			var mnext = h1Arrays[0].nextElementSibling;
 			var ma = mnext.childNodes[1];
 			if(ma && ma.tagName.toLowerCase() == "a"){
 				mnext.parentNode.insertAfter(mdiv,mnext);
