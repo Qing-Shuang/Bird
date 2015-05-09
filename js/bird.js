@@ -1,4 +1,5 @@
 	window.onload = function(){
+		var h1Arrays = document.getElementsByTagName("h1");
 		var h2Arrays = document.getElementsByTagName("h2");
 		if(h2Arrays.length > 1 && h2Arrays[0].textContent){
 			var mul = document.createElement("ul");
@@ -12,8 +13,15 @@
 			var mdiv = document.createElement("div");
 			mdiv.id = "calcOfArticle";
 			mdiv.appendChild(mul);
-
-			//var mbody = document.getElementsByTagName("body");
-			h2Arrays[0].parentNode.insertBefore(mdiv,h2Arrays[0]);
+			
+			var mnext = h1Arrays[0].nextSibling;
+			var ma = mnext.childNodes[1];
+			if(ma && ma.tagName.toLowerCase() == "a"){
+				mnext.parentNode.insertAfter(mdiv,mnext);
+			}
+			else{
+				mnext.parentNode.insertBefore(mdiv,mnext);
+			}
+			//h2Arrays[0].parentNode.insertBefore(mdiv,h2Arrays[0]);
 		}
 	}
