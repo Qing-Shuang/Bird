@@ -17,9 +17,10 @@
 			var mnext = h1Arrays[0].nextElementSibling;
 			var ma = mnext.childNodes[1];
 			if(ma && ma.tagName.toLowerCase() == "a"){
-				mnext.parentNode.insertAfter(mdiv,mnext);
+				mnext.parentNode.insertBefore(mdiv,mnext.nextElementSibling);
 			}
 			else{
+				//has no link
 				mnext.parentNode.insertBefore(mdiv,mnext);
 			}
 			//h2Arrays[0].parentNode.insertBefore(mdiv,h2Arrays[0]);
