@@ -6,6 +6,8 @@ title: Struts学习笔记1--基本概念
 
 # Struts学习笔记1--基本概念 #
 
+摘录于[Struts2实战](http://book.douban.com/subject/4225168/)
+
 ## Http ##
 
 **Http协议原本不是为满足Web应用程序开发人员的需求而设计的。它是为请求和处理静态的Html文档而设计的**。如果要构建基于Http的web应用程序，必须要处理这个差异。

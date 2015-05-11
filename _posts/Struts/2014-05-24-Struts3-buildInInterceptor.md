@@ -6,6 +6,8 @@ title: Struts 学习笔记3--内建的Struts拦截器
 
 # Struts 学习笔记3--内建的Struts拦截器 #
 
+摘录于[Struts2实战](http://book.douban.com/subject/4225168/)
+
 ## 工具拦截器 ##
 
 * timer拦截器。记录执行花费的时间，在拦截器栈中的位置决定了它实际测量什么时间。
@@ -15,7 +17,9 @@ title: Struts 学习笔记3--内建的Struts拦截器
 
 ### params拦截器（defaultStack）###
  
-它将请求参数转移到通过ValueStack公开的属性上。params拦截器**不知道**这些数据最终回去哪里，它只是把数据转移到在ValueStack上发现的**第一个**匹配的属性上。 **因此正确的对象如何及时到达ValueStack接受数据转移呢？**动作总是在请求处理周期开始时被放到ValueStack上。模型（由 `ModelDriven` 接口公开）被modelDriven拦截器放在ValueStack上。
+它将请求参数转移到通过ValueStack公开的属性上。params拦截器**不知道**这些数据最终会去哪里，它只是把数据转移到在ValueStack上发现的**第一个**匹配的属性上。 **因此正确的对象如何及时到达ValueStack接受数据转移呢？**动作总是在请求处理周期开始时被放到ValueStack上。模型（由 `ModelDriven` 接口公开）被modelDriven拦截器放在ValueStack上。
+
+params拦截器把请求参数的名字解析为一个OGNL表达式，用来在ValueStack上定位正确的目标属性。ValueStack是一个Struts2结构，它呈现了一堆对象属性的聚合（好像是一个虚拟对象的属性）。如果重复属性存在（栈中的两个对象都有一个`name`属性），那么栈中最高的对象的属性会是由ValueStack代表的虚拟对象公开的属性。ValueStack代表公开给当前请求的数据模型，并且是所有OGNL表达式求值时所依据的默认对象。ValueStack的魔力是这些对象（动作对象）的所有属性看起来像是ValueStack的属性。
 	
 ### static-params拦截器（defaultStack）### 
 

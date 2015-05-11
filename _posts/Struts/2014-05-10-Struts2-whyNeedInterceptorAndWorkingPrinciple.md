@@ -6,6 +6,8 @@ title: Struts 学习笔记2--为什么需要拦截器及其工作原理
 
 # Struts 学习笔记2--为什么需要拦截器及其工作原理 #
 
+摘录于[Struts2实战](http://book.douban.com/subject/4225168/)
+
 ## 为什么要拦截请求 ##
 
 拦截器承担了动作组件中的横切任务（cross-cutting task）、预处理（preprocessing）、后加工（postprocessing）。

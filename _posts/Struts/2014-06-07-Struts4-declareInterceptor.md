@@ -6,6 +6,8 @@ title: Struts 学习笔记4--声明拦截器
 
 # Struts 学习笔记4--声明拦截器 #
 
+摘录于[Struts2实战](http://book.douban.com/subject/4225168/)
+
 ## 将拦截器映射到动作组件 ##
 
 大多数时候，你的动作会属于某个扩展了struts-default的包，并且会满足让它们使用从这个包继承来的defaultStack的拦截器。
