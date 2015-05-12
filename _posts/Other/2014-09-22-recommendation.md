@@ -40,3 +40,5 @@ title: 好文推荐
 17. [疫苗：Java HashMap的死循环](http://coolshell.cn/articles/9606.html)
 
 18. [死锁](http://ifeve.com/deadlock/), [避免死锁](http://ifeve.com/deadlock-prevention/)
+
+19. [从B树、B+树、B*树谈到R树](http://blog.csdn.net/v_JULY_v/article/details/6530142)
