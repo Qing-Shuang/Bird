@@ -21,3 +21,9 @@
 10. [员工部门工资SQL面试题](http://www.jfox.info/yuan-gong-bu-men-gong-zi-sql-mian-shi-ti)
 
 11. [Java NIO系列教程（十二） Java NIO与IO](http://ifeve.com/java-nio-vs-io/)
+
+12. [单调队列-用一个长度为k的窗在整数数列上移动，求窗里面所包含的数的最大值](http://bylijinnan.iteye.com/blog/1722604)
+
+13. [图解SQL的Join](http://coolshell.cn/articles/3463.html)
+
+14. [SQL中的逻辑查询处理](http://www.php101.cn/2014/09/10/SQL%E4%B8%AD%E7%9A%84%E9%80%BB%E8%BE%91%E6%9F%A5%E8%AF%A2%E5%A4%84%E7%90%86%20%7C/)
