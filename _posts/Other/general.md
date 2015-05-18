@@ -27,3 +27,7 @@
 13. [图解SQL的Join](http://coolshell.cn/articles/3463.html)
 
 14. [SQL中的逻辑查询处理](http://www.php101.cn/2014/09/10/SQL%E4%B8%AD%E7%9A%84%E9%80%BB%E8%BE%91%E6%9F%A5%E8%AF%A2%E5%A4%84%E7%90%86%20%7C/)
+
+15. [聊聊并发（三）Java线程池的分析和使用](http://ifeve.com/java-threadpool/)
+
+16. [集群瓶颈为什么是磁盘io](http://www.aboutyun.com/thread-6802-1-1.html)
