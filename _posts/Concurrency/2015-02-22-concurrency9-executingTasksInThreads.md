@@ -50,12 +50,12 @@ description: 并发编程学习笔记9-任务执行
 
 线程池是指管理一组同构工作线程的资源池。线程池是与工作队列（Work Queue）密切相关的，其中在工作队列中保存了所有等待执行的任务。工作者线程（Worker Thread）的任务很简单：从工作队列中获取一个任务，执行任务，然后返回线程池并等待下一个任务。
 
-通过调用Executors中的静态工厂方法之一来创建一个线程池：
+通过调用`Executors`中的静态工厂方法之一来创建一个线程池：
 
-* newFixedThreadPool：线程池规模固定（如果某个线程由于发生了未预期的Exception而结束，那么线程池会补充一个新的线程）。
-* newCachedThreadPool：线程池规模不存在任何限制，随处理需求变化其规模。
-* newSingleThreadExecutor：确保依照任务在队列中的顺序来串行执行（如果当前线程异常结束，会创建另一个线程来替代）。
-* newScheduledThreadPool：线程池规模固定并且以延迟或者定时的方式来执行任务。
+* `newFixedThreadPool`：线程池规模固定（如果某个线程由于发生了未预期的`Exception`而结束，那么线程池会补充一个新的线程）。
+* `newCachedThreadPool`：线程池规模不存在任何限制，随处理需求变化其规模。
+* `newSingleThreadExecutor`：确保依照任务在队列中的顺序来串行执行（如果当前线程异常结束，会创建另一个线程来替代）。
+* `newScheduledThreadPool`：线程池规模固定并且以延迟或者定时的方式来执行任务。
 
 ### Executor的生命周期 ###
 
