@@ -31,3 +31,5 @@
 15. [聊聊并发（三）Java线程池的分析和使用](http://ifeve.com/java-threadpool/)
 
 16. [集群瓶颈为什么是磁盘io](http://www.aboutyun.com/thread-6802-1-1.html)
+
+17. [Java 异常类层次结构](http://www.programcreek.com/2009/02/diagram-for-hierarchy-of-exception-classes/)
