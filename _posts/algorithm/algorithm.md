@@ -1,0 +1,15 @@
+# 算法题 #
+
+1. [不要被阶乘吓到](blog.csdn.net/my_jobs/article/details/43305247)
+2. [快速找出机器故障](blog.csdn.net/insistgogo/article/details/7687936)
+3. [寻找发帖水王](blog.csdn.net/rein07/article/details/6741661)
+4. [找出数组中重复的数据和丢失的数据](blog.csdn.net/insistgogo/article/details/9239137)
+5. [快速寻找满足条件的两个数](http://blog.csdn.net/v_JULY_v/article/details/6419466)
+6. [寻找数组中的最大值和最小值](blog.csdn.net/insistgogo/article/details/7693743)
+7. [加油站；及拷贝链表分析](www.ituring.com.cn/article/59102)
+8. [最新版本；及加油站分析](chuansong.me/n/195462)
+9. [LIS问题；及最少插入字符分析](www.ituring.com.cn/article/60247)
+10. [拷贝链表；及糖果分析](www.ituring.com.cn/article/59100)
+11. [分词问题；及最大乘积分析](www.ituring.com.cn/article/60245)
+12. [单调队列-用一个长度为k的窗在整数数列上移动，求窗里面所包含的数的最大值](http://bylijinnan.iteye.com/blog/1722604)
+13. [全排列和全组合实现](http://wuchong.me/blog/2014/07/28/permutation-and-combination-realize/)
