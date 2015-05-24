@@ -17,3 +17,5 @@
 15. [MySQL联合索引](http://blog.ikinvin.com/index/article/aid/10), [MySQL单表多字段模糊查询解决方法](http://m.oschina.net/blog/316499), [MySQL索引与优化like查询](http://blog.ikinvin.com/index/article/aid/43)
 16. [DML、DDL、DCL区别](http://blog.ikinvin.com/index/article/aid/9)
 17. [在java中如何创建一个内存泄露](http://blog.csdn.net/jiangkai528/article/details/45198305)
+18. [MySQL锁定相关](http://blog.ikinvin.com/index/article/aid/29)
+19. [总结的一些MySQL数据库面试题](http://www.bubuko.com/infodetail-512345.html)
