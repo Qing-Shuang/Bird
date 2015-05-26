@@ -25,3 +25,4 @@ title: 好文推荐
 18. [死锁](http://ifeve.com/deadlock/), [避免死锁](http://ifeve.com/deadlock-prevention/)
 19. [从B树、B+树、B*树谈到R树](http://blog.csdn.net/v_JULY_v/article/details/6530142)
 20. [深入Mysql字符集设置](http://www.laruence.com/2008/01/05/12.html)
+21. [Innodb中的事务隔离级别和锁的关系](http://tech.meituan.com/innodb-lock.html)
