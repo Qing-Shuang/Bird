@@ -19,3 +19,4 @@
 17. [在java中如何创建一个内存泄露](http://blog.csdn.net/jiangkai528/article/details/45198305)
 18. [MySQL锁定相关](http://blog.ikinvin.com/index/article/aid/29)
 19. [总结的一些MySQL数据库面试题](http://www.bubuko.com/infodetail-512345.html)
+20. [一些mysql基础知识](http://blog.ikinvin.com/index/list/type/kind/cid/6)
