@@ -20,3 +20,4 @@
 18. [MySQL锁定相关](http://blog.ikinvin.com/index/article/aid/29)
 19. [总结的一些MySQL数据库面试题](http://www.bubuko.com/infodetail-512345.html)
 20. [一些mysql基础知识](http://blog.ikinvin.com/index/list/type/kind/cid/6)
+21. [union和union all 的区别](http://www.cnblogs.com/qiantuwuliang/archive/2009/05/31/1492778.html)
