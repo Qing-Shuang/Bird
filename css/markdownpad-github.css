@@ -21,9 +21,10 @@ html{
 =============================================================================*/
 
 body {
-  font-family: MicrosoftYaHei,"微软雅黑",Arial,Tahoma,Helvetica,Georgia,sans-serif,"STXihei","华文黑体",Hei,"Hiragino Kaku Gothic Pro",SimSun;
+  /*font-family: MicrosoftYaHei,"微软雅黑",Arial,Tahoma,Helvetica,Georgia,sans-serif,"STXihei","华文黑体",Hei,"Hiragino Kaku Gothic Pro",SimSun;*/
   /*font-family: "Trebuchet MS", Georgia, "Times New Roman", Times, Helvetica, arial, freesans, clean, sans-serif;*/
   /*font-family: Georgia, Helvetica, arial, freesans, clean, sans-serif;*/
+  font-family: 'Hiragino Sans GB', "Microsoft Yahei", "微软雅黑", sans-serif;
   font-size: 16px;
   line-height: 1.6;
   color: #333;
